@@ -10,7 +10,7 @@
   - Version Control: Git.
   - Others: Microsoft Office Suites.
 - 🌱 I’m currently learning cloud DevOps engineering.
-- 📫 I am an asset to any team!
+- 📫 I am an asset to my team!
 
 <!---
 nekerobert/nekerobert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
